@@ -84,67 +84,33 @@ How to start the project
 
 ```bash
 
-📌 1º Create your project 📌 
-Start by creating a new Vite project if you don’t have one set up already. The most common approach is to use Create Vite.
+📌 1º Create your project and Install the frameworks 📌 
+Start by creating a new React project.
 
-- "npm create vite@latest YOUR PROJECT NAME HERE -- --template react"
-- "npm install"
-- "cd YOUR PROJECT NAME HERE"
-
-
-
-
-
-📌 2º Install Tailwind CSS 📌
-Install tailwindcss and its peer dependencies, then generate your tailwind.config.js and postcss.config.js files.
-
-- "npm install -D tailwindcss postcss autoprefixer"
-- "npx tailwindcss init -p"
-
-
-
-
-
-📌 3º Configure your template paths 📌
-Add the paths to all of your template files in your tailwind.config.js file.
-
-/** @type {import('tailwindcss').Config} */
-export default {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}
-
-
-
-
-
-📌 4º Add the Tailwind directives to your CSS 📌
-Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
-
-"@tailwind base;"
-"@tailwind components;"
-"@tailwind utilities;"
-
-
-
-
-
-📌 5º Install React Icons 📌
-
+- "npx create-react-app ."
+- "npm install react-router-dom"
+- "$ npm install express --save"
 - "npm install react-icons --save"
+- "npm start"
 
 
 
 
 
-📌 6º Start Your Project 📌
+📌 2º Create an account and connece MONGODB in the project 📌
+https://www.mongodb.com/cloud/atlas/register
 
-- "npm run dev"
+- Create an database in MongoDB, for more access: "https://www.mongodb.com/resources/products/fundamentals/create-database"
+- in VSCode insert the command: "mongoose.connect("mongodb+srv://YOURNAMESERVER:YOURPASSWORD@cluster0.61xgusl.mongodb.net/YOURPROJECTURL")" into the file "index.js" 
+
+
+
+
+
+📌 3º Start Your Project 📌
+
+- "npm start" for the frontend
+- "node .\index.js" for the backend
+- "npm run dev" for the admin panel
 
 ```
