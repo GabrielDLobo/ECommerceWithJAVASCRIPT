@@ -23,19 +23,39 @@
 ![expressjs][EXPRESSJS__BADGE]
 
 
-<h2 id="layout">🎨 Layout Page</h2>
+<h2 id="layout">🎨 Layout Homepage</h2>
 
 <p align="center">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/1ImgPortfolioHome.jpg" alt="Image Example" width="400px">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/2ImgPortfolioPopular.jpg" alt="Image Example" width="400px">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/3ImgPortfolioNewCollections.jpg" alt="Image Example" width="400px">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/4ImgPortfolioCollections.jpg" alt="Image Example" width="400px">
+</p>
 
+<h2 id="layout">🎨 Layout Categories</h2>
+
+<p align="center">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/5ImgPortfolioMensCategory.jpg" alt="Image Example" width="400px">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/6ImgPortfolioKidsCategory.jpg" alt="Image Example" width="400px">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/7ImgPortfolioMensCategoryFooter.jpg" alt="Image Example" width="400px">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/8ImgPortfolioMensCategoryProduct.jpg" alt="Image Example" width="400px">
+</p>
+
+
+<h2 id="layout">🎨 Cart and Login/Create An Account </h2>
+
+<p align="center">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/9ImgPortfolioMensCategoryProduct.jpg" alt="Image Example" width="400px">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/10ImgPortfolioCart.jpg" width="400px">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/11ImgPortfolioLogin.jpg" alt="Image Example" width="400px">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/12ImgPortfolioCreateAnAccount.jpg" alt="Image Example" width="400px">
 </p>
 
 <h2 id="layout">🎨 Admin Panel </h2>
 
 <p align="center">
-    <img src="https://github.com/GabrielDLobo/LPGabrielLobo/blob/main/src/assets/ImgPortfolioPessoalGabrielLobo.jpg" alt="Image Example" width="400px">
-    <img src="https://github.com/GabrielDLobo/LPGabrielLobo/blob/main/src/assets/ImgPortfolioPessoalGabrielLoboAbout.jpg" alt="Image Example" width="400px">
-    <img src="https://github.com/GabrielDLobo/LPGabrielLobo/blob/main/src/assets/ImgPortfolioPessoalGabrielLoboTechnologiesAndProjects.jpg" alt="Image Example" width="400px">
-    <img src="https://github.com/GabrielDLobo/LPGabrielLobo/blob/main/src/assets/ImgPortfolioPessoalGabrielLoboContact.jpg" alt="Image Example" width="400px">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/13ImgPortfolioAdminPanelAddProduct.jpg" alt="Image Example" width="400px">
+    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/14ImgPortfolioAdminPanelListProduct.jpg" width="400px">
 </p>
 
 <h2 id="started">🚀 Getting started</h2>
@@ -46,7 +66,6 @@
 - [React](https://react.dev/learn/start-a-new-react-project)
 - [ReactIcons](https://react-icons.github.io/react-icons/)
 - [NodeJS](https://nodejs.org/pt)
-- [TailwindCSS + Vite](https://tailwindcss.com/docs/guides/vite)
 - [MongoDB](https://www.mongodb.com/)
 - [ExpressJS](https://expressjs.com/pt-br/)
 
