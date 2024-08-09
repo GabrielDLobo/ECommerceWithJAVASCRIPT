@@ -26,10 +26,7 @@
 <h2 id="layout">🎨 Layout Page</h2>
 
 <p align="center">
-    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/ImgPortfolioMenCategory.jpg" alt="Image Example" width="400px">
-    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/ImgPortfolioProductCategory.jpg" alt="Image Example" width="400px">
-    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/ImgPortfolioProductCategoryRelatedProducts.jpg" alt="Image Example" width="400px">
-    <img src="https://github.com/GabrielDLobo/ECommerceWithJAVASCRIPT/blob/main/frontend/src/Components/Assets/ImgPortfolioFooter.jpg" alt="Image Example" width="400px">
+
 </p>
 
 <h2 id="layout">🎨 Admin Panel </h2>
